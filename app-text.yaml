@@ -1,0 +1,5 @@
+file:
+  text: some | 
+        text |
+        with |
+        new lines
